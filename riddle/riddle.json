@@ -49,7 +49,7 @@
   },
   {
     "question": "I am a famous waterfall located between the border of Canada and the United States. What am I called?",
-    "answer": "'Niagara' Falls"
+    "answer": "'Niagara'|'Niagara Falls'"
   },
   {
     "question": "What is the capital city of Australia?",
@@ -61,7 +61,7 @@
   },
   {
     "question": "What is the highest mountain in Africa?",
-    "answer": "Mount 'Kilimanjaro'"
+    "answer": "'Mount Kilimanjaro'|'Kilimanjaro'"
   },
   {
     "question": "I am an island country in Southeast Asia, known for its beautiful beaches and temples. What am I?",
@@ -69,7 +69,7 @@
   },
   {
     "question": "What is the longest river in the world?",
-    "answer": "'Nile' River"
+    "answer": "'Nile'|'Nile River'"
   },
   {
     "question": "I am a city in India, known for the Taj Mahal. What am I called?",
@@ -77,7 +77,7 @@
   },
   {
     "question": "What is the smallest country in the world?",
-    "answer": "'Vatican' City"
+    "answer": "'Vatican'|'Vatican City'"
   },
   {
     "question": "What do we call money that is borrowed from a bank and has to be paid back with interest?",
@@ -129,7 +129,7 @@
   },
   {
     "question": "I am a portable storage device that is smaller than a floppy disk. What am I?",
-    "answer": "'USB' drive"
+    "answer": "'USB'|'USB drive'"
   },
   {
     "question": "What is the term for a program that pretends to be a useful application but actually harms your computer?",
@@ -161,7 +161,7 @@
   },
   {
     "question": "I am a decentralized digital currency that operates on the blockchain. What am I?",
-    "answer": "'Cryptocurrency' (for example, Bitcoin, Ethereum)"
+    "answer": "'Cryptocurrency'"
   },
   {
     "question": "I am a digital ledger that records transactions across multiple computers. What am I?",
@@ -181,7 +181,7 @@
   },
   {
     "question": "I am a platform that allows developers to create and deploy smart contracts. What am I?",
-    "answer": "'Smart contract' platform (for example, Ethereum)"
+    "answer": "'Smart contract' platform'"
   },
   {
     "question": "I am a decentralized storage system that allows users to store and retrieve data. What am I called?",
@@ -197,6 +197,6 @@
   },
   {
     "question": "I am a virtual world that exists on the blockchain and allows users to create, trade, and interact. What am I?",
-    "answer": "'Metaverse' (for example, iNTROVERSE)"
+    "answer": "'Metaverse'"
   }
 ]
