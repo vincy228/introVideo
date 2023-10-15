@@ -120,8 +120,108 @@
     "answer": "'PIN'"
   },
   {
-    "question": "I'm a special code you need to access your bank account online. What am I?",
-    "answer": "'PIN'"
+    "question": "I'm in digital form that lets you make contactless payments with your smartphone. What am I?",
+    "answer": "'E-wallet'"
+  },
+  {
+    "question": "I'm a service that allows you to invest in a mix of stocks and bonds. What am I?",
+    "answer": "'Mutual fund'"
+  },
+  {
+    "question": "I'm a term for a situation where a bank sets aside a portion of your deposits. What am I?",
+    "answer": "'Reserve requirement'"
+  },
+  {
+    "question": "I'm a measure of how quickly a bank can turn its assets into cash. What am I?",
+    "answer": "'Liquidity ratio'"
+  },
+  {
+    "question": "I'm a type of account that offers a higher interest rate but with limited withdrawals. What am I?",
+    "answer": "'Certificate of deposit'"
+  },
+  {
+    "question": "I'm a term when an account doesn't have enough funds to cover a transaction. What am I?",
+    "answer": "'Overdraft'"
+  },
+  {
+    "question": "I'm the practice of spreading your investments across different assets to reduce risk. What am I?",
+    "answer": "'Diversification'"
+  },
+  {
+    "question": "I'm the maximum amount a bank is willing to lend to a specific customer. What am I?",
+    "answer": "'Credit limit'"
+  },
+  {
+    "question": "I'm the cost of borrowing money, expressed as a percentage. What am I?",
+    "answer": "'Interest rate'"
+  },
+  {
+    "question": "I'm a term for the practice of using borrowed money to invest and potentially increase returns. What am I?",
+    "answer": "'Leverage'"
+  },
+  {
+    "question": "I'm a financial institution that specializes in helping companies raise capital by issuing stocks and bonds. What am I?",
+    "answer": "'Investment bank'"
+  },
+  {
+    "question": "I'm a financial tool that represents a debt owed by a company or government. What am I?",
+    "answer": "'Bond'"
+  },
+  {
+    "question": "I'm the process of verifying the accuracy and completeness of financial statements. What am I?",
+    "answer": "'Auditing'"
+  },
+  {
+    "question": "I'm a person who manages the financial accounts of a company or individual. What am I?",
+    "answer": "'Accountant'"
+  },
+  {
+    "question": "I'm a financial fraud that pretends to be a legitimate institution to steal your personal information. What am I?",
+    "answer": "'Phishing'"
+  },
+  {
+    "question": "I'm a government program that provides financial assistance to people who are retired or disabled. What am I?",
+    "answer": "'Social Security'"
+  },
+  {
+    "question": "I'm a type of credit that is not tied to a specific purchase, and you can use me for various expenses. What am I?",
+    "answer": "'Revolving credit'"
+  },
+  {
+    "question": "I'm a type of tax that is paid when you sell an investment for a profit. What am I?",
+    "answer": "'Capital gains tax'"
+  },
+  {
+    "question": "I'm a financial instrument that allows you to bet on the future price of an asset without owning it. What am I?",
+    "answer": "'Derivative'"
+  },
+  {
+    "question": "I'm a type of loan that allows you to borrow against the value of your home. What am I?",
+    "answer": "'Home equity loan'"
+  },
+  {
+    "question": "I'm a term for the process of spreading investments across different asset classes to reduce risk. What am I?",
+    "answer": "'Asset allocation'"
+  },
+  {
+    "question": "I'm a government agency that enforces laws and regulations in the financial industry. What am I?",
+    "answer": "'Securities and Exchange Commission'"
+  },
+  {
+    "question": "I'm a type of bond issued by the government and considered one of the safest investments. What am I?",
+    "answer": "'Treasury bond'"
+  },
+  {
+    "question": "I'm a form of investing that focuses on environmental, social, and governance factors. What am I?",
+    "answer": "'ESG'"
+  },
+  {
+    "question": "I'm the document that including the interest rate and repayment schedule. What am I?",
+    "answer": "'Loan agreement'"
+  },
+  {
+    "question": "I'm a fee charged by a mutual fund when you buy or sell shares. What am I?",
+    "answer": "'Load fee'"
   }
 
 
